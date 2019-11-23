@@ -74,7 +74,7 @@ print(
 
 ## Error handling
 
-Like `None` handling, write a `let` which short-cirsuits on errors:
+Like `None` handling, write a `let` which short-circuits on errors:
 
 ```python
 def TODO():
